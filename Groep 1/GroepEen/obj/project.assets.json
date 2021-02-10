@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gebruiker\\Documents\\SCHOOL\\Workshop\\Repo\\workshop\\Groep 1\\GroepEen\\GroepEen.csproj",
+      "projectUniqueName": "C:\\Users\\Gebruiker\\Desktop\\test\\workshop\\Groep 1\\GroepEen\\GroepEen.csproj",
       "projectName": "GroepEen",
-      "projectPath": "C:\\Users\\Gebruiker\\Documents\\SCHOOL\\Workshop\\Repo\\workshop\\Groep 1\\GroepEen\\GroepEen.csproj",
+      "projectPath": "C:\\Users\\Gebruiker\\Desktop\\test\\workshop\\Groep 1\\GroepEen\\GroepEen.csproj",
       "packagesPath": "C:\\Users\\Gebruiker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gebruiker\\Documents\\SCHOOL\\Workshop\\Repo\\workshop\\Groep 1\\GroepEen\\obj\\",
+      "outputPath": "C:\\Users\\Gebruiker\\Desktop\\test\\workshop\\Groep 1\\GroepEen\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
